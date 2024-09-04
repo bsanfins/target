@@ -23,4 +23,4 @@ for vendas in fat["valor"]:
 media = valores/contador
 media = round(media,2)
 
-print(fa"O valor médio das vendas no mês foi de R$ {media}")
+print(f"O valor médio das vendas no mês foi de R$ {media}")
